@@ -53,7 +53,7 @@ sudo apt install ros-jazzy-turtlesim
 cd ~/ros2_ws/src
 
 # 2. Clone the repository
-git clone https://github.com/YOUR_USERNAME/turtlesim-waypoint-navigator.git
+git clone https://github.com/ShulPaani/turtlesim-waypoint-navigator.git
 
 # 3. Go back to workspace root and build
 cd ~/ros2_ws
